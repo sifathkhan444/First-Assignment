@@ -7,7 +7,7 @@
 
 .top-banner{
     width: 100%;
-    background-image: url(/new-year-new-me/images/banner/banner1.png);
+    background-image: url(images/banner/banner1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -107,7 +107,7 @@
 }
 
 .positive-section{
-    background-image: url(/new-year-new-me/images/gradient1.png), url(/new-year-new-me/images/watch.png);
+    background-image: url(images/gradient1.png), url(images/watch.png);
     margin: 130px 230px;
     padding: 20px 40px;
     text-align: left;
@@ -141,9 +141,7 @@
     background-color: #000000;
     text-align: left;
 }
-.items{
 
-}
 
 /* .right-items{
     margin-right: 35%;
